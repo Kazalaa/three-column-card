@@ -26,6 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution live URL here](https://www.frontendmentor.io/solutions/responsive-columncardcomponent-qWraKCX0p)
+- Preview site:[Add preview site URL here](https://kazalaa.github.io/three-column-card/)
 
 
 ### Built with
